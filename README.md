@@ -51,7 +51,7 @@ Windows电脑＆刷机资料包
 
 短接点：（GND和1V8）
 见： https://pic4.zhimg.com/v2-b01da4cfe26c940065af5c992d6d0665_1440w.jpg
-
+![v2-b01da4cfe26c940065af5c992d6d0665_1440w](https://github.com/user-attachments/assets/ae60d68d-d525-402b-8cb1-57ed9d20650f)
 🔺 使用Type-C数据线连接电脑，然后使用曲别针或者镊子等金属短接图上2个点，调整一个合适的姿势，要保证两个点接通稳住，另一个手把Type-C数据线插入网心云
 
 🔺 大概2秒左右，软件会提示：发现一个MASKROM设备，这个时候松开曲别针，在软件上点击执行即可
@@ -61,7 +61,7 @@ Windows电脑＆刷机资料包
 从短接金属焊点到插入数据线，然后软件提示发现设备，到拿开曲别针总共是几秒钟左右，如果你操作了没有成功、没反应，拔掉数据线重新来过（不需要接入DC电源，TypeC数据线能供电）。
 
 初见Armbian系统
-网心云OEC刷机完成，赶快进入Armbian系统确认下，![v2-b01da4cfe26c940065af5c992d6d0665_1440w](https://github.com/user-attachments/assets/ae60d68d-d525-402b-8cb1-57ed9d20650f)
+网心云OEC刷机完成，赶快进入Armbian系统确认下，
 
 
 🔺 网心云先不着急装机，使用12V/2A的电源接入主板，然后把OEC接入家里的路由器
@@ -82,7 +82,9 @@ Windows电脑＆刷机资料包
 OK，经过上面一番猛如虎的操作，网心云OEC刷机至此结束，不到100元即可拥有一台轻量级NAS家用服务器，可以说是矿渣神器、适合喜欢折腾的玩家。
 
 你可以跑轻NAS系统、安装Docker、迅雷下载、挂载alsit网盘等可玩性非常高，如果对你有帮助，欢迎star一下。
+
 en
+
 These tools can help you flash OEC/OECT to armbian system
 Tutorial:
 In 2024, operators will fight against the PCDN industry, and major edge computing businesses will be impacted. Although the "mining disaster" is ruthless, the garbage man is ecstatic. NetCenter OEC has become a new generation of mining artifact. The appearance is basically the same as Wanke Cloud. It can also be flashed to Armbian system to unlock lightweight NAS, OpenWrt bypass router, Thunder download machine and other gameplay.
