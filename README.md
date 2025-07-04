@@ -121,7 +121,10 @@ Before disassembling, let’s introduce the interface.
 
 Then, connect the TypeC data cable to the computer, and prepare to connect the other end to the OEC motherboard for standby.
 
-Install the driver
+（GND and 1V8） watch： https://pic4.zhimg.com/v2-b01da4cfe26c940065af5c992d6d0665_1440w.jpg
+![v2-b01da4cfe26c940065af5c992d6d0665_1440w](https://github.com/user-attachments/assets/ae60d68d-d525-402b-8cb1-57ed9d20650f)
+
+Install the driver 
 
 🔺 Double-click to install DriverAssitant, and click Confirm after success
 
