@@ -1,6 +1,9 @@
 # oec-jp
+
 This is oec to armbian'readme.
+
 zh-cn
+
 这些工具可以帮助你刷机OEC/OECT成为armbian系统
 教程：
 2024年运营商大战PCDN行业，各大边缘计算业务受到冲击，“矿难”虽无情，但垃圾佬狂喜，网心云OEC成为新一代矿渣神器，外观和玩客云基本一样，还可以刷机成Armbian系统后解锁轻量NAS、OpenWrt旁路由、迅雷下载机等玩法。
