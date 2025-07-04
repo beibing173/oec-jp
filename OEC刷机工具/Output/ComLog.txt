@@ -1,0 +1,86 @@
+Boot1 Release Time: Jun 18 2021 20:07:33, version: 1.10
+support nand flash type: slc
+...nandc_flash_init enter...
+No.1 FLASH ID:ff ff ff ff ff ff
+sfc nor id: ff ff ff
+sfc_nand id: ff ff ff
+SD IO init 0
+Set SD Clk: 200, 5
+Set SD Clk: 200, 5
+ SDC_BusRequest:  CMD=8  SDC_RESP_TIMEOUT 1747
+ mmc0:cmd8,20
+ SDC_BusRequest:  CMD=5  SDC_RESP_TIMEOUT 1747
+ mmc0:cmd5,20
+ SDC_BusRequest:  CMD=55  SDC_RESP_TIMEOUT 1747
+ mmc0:cmd55,20
+ SDC_BusRequest:  CMD=1  SDC_RESP_TIMEOUT 1747
+ mmc0:cmd1,20
+Set SD Clk: 200, 5
+ SDC_BusRequest:  CMD=8  SDC_RESP_TIMEOUT 1747
+ mmc0:cmd8,20
+ SDC_BusRequest:  CMD=5  SDC_RESP_TIMEOUT 1747
+ mmc0:cmd5,20
+ SDC_BusRequest:  CMD=55  SDC_RESP_TIMEOUT 1747
+ mmc0:cmd55,20
+ SDC_BusRequest:  CMD=1  SDC_RESP_TIMEOUT 1747
+ mmc0:cmd1,20
+Set SD Clk: 200, 5
+ SDC_BusRequest:  CMD=8  SDC_RESP_TIMEOUT 1747
+ mmc0:cmd8,20
+ SDC_BusRequest:  CMD=5  SDC_RESP_TIMEOUT 1747
+ mmc0:cmd5,20
+ SDC_BusRequest:  CMD=55  SDC_RESP_TIMEOUT 1747
+ mmc0:cmd55,20
+ SDC_BusRequest:  CMD=1  SDC_RESP_TIMEOUT 1747
+ mmc0:cmd1,20
+SdmmcInit=0 1
+Emmc IO init.
+EMMC_DLL_RXCLK = 0
+Emmc IO init.
+EMMC_DLL_RXCLK = 0
+mmc_set_bus_width: 1
+SetEmmcClk: 375000, 5
+SetEmmcClk: 375000, 5
+mmc_set_bus_width: 8
+SetEmmcClk: 200000000, 1
+Enable PHY CLK: 200000000
+SdmmcInit=2 0
+BootCapSize=100000
+UserCapSize=7456MB
+FwPartOffset=2000 , 100000
+UsbBoot ...154336
+powerOn 156288
+...nandc_flash_init enter...
+No.1 FLASH ID:ff ff ff ff ff ff
+sfc nor id: ff ff ff
+sfc_nand id: ff ff ff
+SD IO init 0
+Set SD Clk: 200, 5
+Set SD Clk: 200, 5
+ SDC_BusRequest:  CMD=8  SDC_RESP_TIMEOUT 1747
+ mmc0:cmd8,20
+ SDC_BusRequest:  CMD=5  SDC_RESP_TIMEOUT 1747
+ mmc0:cmd5,20
+ SDC_BusRequest:  CMD=55  SDC_RESP_TIMEOUT 1747
+ mmc0:cmd55,20
+ SDC_BusRequest:  CMD=1  SDC_RESP_TIMEOUT 1747
+ mmc0:cmd1,20
+Set SD Clk: 200, 5
+ SDC_BusRequest:  CMD=8  SDC_RESP_TIMEOUT 1747
+ mmc0:cmd8,20
+ SDC_BusRequest:  CMD=5  SDC_RESP_TIMEOUT 1747
+ mmc0:cmd5,20
+ SDC_BusRequest:  CMD=55  SDC_RESP_TIMEOUT 1747
+ mmc0:cmd55,20
+ SDC_BusRequest:  CMD=1  SDC_RESP_TIMEOUT 1747
+ mmc0:cmd1,20
+Set SD Clk: 200, 5
+ SDC_BusRequest:  CMD=8  SDC_RESP_TIMEOUT 1747
+ mmc0:cmd8,20
+ SDC_BusRequest:  CMD=5  SDC_RESP_TIMEOUT 1747
+ mmc0:cmd5,20
+ SDC_BusRequest:  CMD=55  SDC_RESP_TIMEOUT 1747
+ mmc0:cmd55,20
+ SDC_BusRequest:  CMD=1  SDC_RESP_TIMEOUT 1747
+ mmc0:cmd1,20
+SdmmcInit=0 1
