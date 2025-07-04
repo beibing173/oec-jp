@@ -81,7 +81,7 @@ Windows电脑＆刷机资料包
 总结
 OK，经过上面一番猛如虎的操作，网心云OEC刷机至此结束，不到100元即可拥有一台轻量级NAS家用服务器，可以说是矿渣神器、适合喜欢折腾的玩家。
 
-你可以跑轻NAS系统、安装Docker、迅雷下载、挂载alsit网盘等可玩性非常高，下期分享Docker下安装OpenWrt系统当旁路由，如果对你有帮助，欢迎star一下。
+你可以跑轻NAS系统、安装Docker、迅雷下载、挂载alsit网盘等可玩性非常高，如果对你有帮助，欢迎star一下。
 en
 These tools can help you flash OEC/OECT to armbian system
 Tutorial:
@@ -156,4 +156,4 @@ Reinstall the shell of NetCenter OEC, restore it to its original state, insert a
 Summary
 OK, after the above fierce operation, the NetCenter OEC flashing is over. You can own a lightweight NAS home server for less than 100 yuan. It can be said to be a slag artifact and suitable for players who like to toss.
 
-You can run a light NAS system, install Docker, Thunder download, mount alsit network disk, etc. It is very playable. In the next issue, I will share how to install the OpenWrt system under Docker as a bypass router. If it helps you, welcome to star.
+You can run a light NAS system, install Docker, Thunder download, mount alsit network disk, etc. It is very playable. In the next issue,  If it helps you, welcome to star.
